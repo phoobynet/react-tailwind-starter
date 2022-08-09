@@ -1,6 +1,7 @@
 # react-tailwind-starter
 
-With added Prettier and ESLint!
+With added Prettier, ESLint and Storybook!
 
-Clone me, and run npm install.
-
+```bash
+gh repo create --private --clone --template react-tailwind-starter
+```
